@@ -1,2 +1,2 @@
 # 3DUniF-AwMamba
-Code is available
+Once our work is accepted, the corresponding code and model weights will be uploaded and made publicly available in this repository. 
